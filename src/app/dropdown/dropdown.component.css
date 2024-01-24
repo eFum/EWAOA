@@ -1,0 +1,10 @@
+select {
+  background: #f5f5f5;
+  border: 0;
+  padding: 0.5rem 1rem;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  text-indent: 1px;
+  text-overflow: '';
+  text-align: center;
+}
